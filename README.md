@@ -26,7 +26,7 @@ On the other side, the stability of the percussion type is not as good as connec
         <td ><center><img src=".\image\connecting_rod_type.jpg" >Fig 1  Connecting Rod Type </center></td>
         <td ><center><img src=".\image\percussion_type.jpg"  >Fig 2 Percussion Type</center></td>
     </tr>
-
+<table>
 
 
 ## MOTOR
