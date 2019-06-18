@@ -30,6 +30,7 @@ On the other side, the stability of the percussion type is not as good as connec
 
 
 
+
 ## MOTOR
 
 We choose the 20-small-wheel wheel for our robot. In theory, the more small wheels it has, the more smooth motion performance it has. But once the small wheels are too many, it will be very hard to maintain. For example, cleaning up the dust in it. 
@@ -45,3 +46,4 @@ The whole device has only one degree of freedom of rotation. We use a dribble mo
 Simultaneously, we designed threads in the surface of the silicon tube so that the tube can keep the ball in the center of the mouth. 
 
 ![](.\image\mouth.PNG)
+=======
