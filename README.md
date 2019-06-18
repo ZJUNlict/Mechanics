@@ -7,7 +7,7 @@
 
 In 2018 we participated in the RoboCup SSL and won the championship luckily. This mechanical design is what we used in the match. We divide our robot into 4 parts according to their functions. There will be a brief introduction to each part next.
 
-![](.\image\2018_Version.PNG)
+![](./image/2018_Version.PNG)
 
 ## BASE
 
@@ -45,5 +45,4 @@ The whole device has only one degree of freedom of rotation. We use a dribble mo
 
 Simultaneously, we designed threads in the surface of the silicon tube so that the tube can keep the ball in the center of the mouth. 
 
-![](.\image\mouth.PNG)
-=======
+![](./image/mouth.PNG)
