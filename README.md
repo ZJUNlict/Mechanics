@@ -7,7 +7,7 @@
 
 In 2018 we participated in the RoboCup SSL and won the championship luckily. This mechanical design is what we used in the match. We divide our robot into 4 parts according to their functions. There will be a brief introduction to each part next.
 
-![2018_Version](.\image\2018_Version.PNG)
+![](.\image\2018_Version.PNG)
 
 ## BASE
 
@@ -26,6 +26,7 @@ On the other side, the stability of the percussion type is not as good as connec
         <td ><center><img src=".\image\connecting_rod_type.jpg" >Fig 1  Connecting Rod Type </center></td>
         <td ><center><img src=".\image\percussion_type.jpg"  >Fig 2 Percussion Type</center></td>
     </tr>
+<table>
 
 
 
@@ -43,4 +44,4 @@ The whole device has only one degree of freedom of rotation. We use a dribble mo
 
 Simultaneously, we designed threads in the surface of the silicon tube so that the tube can keep the ball in the center of the mouth. 
 
-![mouth](.\image\mouth.PNG)
+![](.\image\mouth.PNG)
