@@ -5,7 +5,7 @@
 
 ## Introduction
 
-In 2018 we participated in the RoboCup SSL and won the championship luckily. This mechanical design is what we used in the match. We divide our robot into 4 parts according to their functions. There will be a brief introduction to each part next. The overall rendering of our robot is shown in the photo below.
+In 2018 we participated in the RoboCup SSL and won the championship luckily. We divide our robot into 4 parts according to their functions. There will be a brief introduction to each part next. The overall rendering of our robot is shown in the photo below.
 
 ![](./image/Version_2018.PNG)
 
@@ -39,7 +39,9 @@ The reduction gearbox is designed for internal gear drive. The reduction ratio o
 
 ## MOUTH
 
-The whole device has only one degree of freedom of rotation. We use a dribble motor(Maxon EC-16 30W) and a silicon tube to grab the ball. We have tested the dynamic dribbling ability using the silicon tube(shown in our [ ETDP in 2018 ](http:<https://zjunlict.cn/wp-content/uploads/2018/11/Small_Size_League_-_RoboCup_2018_-_TDP_ZJUNlict.pdf>)). Since 2018, we have changed the external reduction ratio of the dribbling motor to 1:1, setting the output power of the dribbling motor to a more proper value. 
+The whole device has only one degree of freedom of rotation(see photo below). We use a dribble motor(Maxon EC-16 30W) and a silicon tube to grab the ball. We have tested the dynamic dribbling ability using the silicon tube(shown in our [ ETDP in 2018 ](http:<https://zjunlict.cn/wp-content/uploads/2018/11/Small_Size_League_-_RoboCup_2018_-_TDP_ZJUNlict.pdf>)). Since 2018, we have changed the external reduction ratio of the dribbling motor to 1:1, setting the output power of the dribbling motor to a more proper value. 
+
+![](./image/mouth_freedomdegree.PNG)
 
 Simultaneously, we designed threads in the surface of the silicon tube so that the tube can keep the ball in the center of the mouth more easily.  The photo of the mouth is shown below.
 
