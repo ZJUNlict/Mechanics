@@ -39,9 +39,13 @@ The reduction gearbox is designed for internal gear drive. The reduction ratio o
 
 ## MOUTH
 
-The whole device has only one degree of freedom of rotation(see photo below). We use a dribble motor(Maxon EC-16 30W) and a silicon tube to grab the ball. We have tested the dynamic dribbling ability using the silicon tube(shown in our [ ETDP in 2018 ](http:<https://zjunlict.cn/wp-content/uploads/2018/11/Small_Size_League_-_RoboCup_2018_-_TDP_ZJUNlict.pdf>)). Since 2018, we have changed the external reduction ratio of the dribbling motor to 1:1, setting the output power of the dribbling motor to a more proper value. 
+The whole device has only one degree of freedom of rotation(see photo below). 
 
 ![](./image/mouth_freedomdegree.PNG)
+
+We use a dribbling motor(Maxon EC-16 30W) and a silicon tube to grab the ball. We have tested the dynamic dribbling ability using the silicon tube(shown in our [ ETDP in 2018 ](http:<https://zjunlict.cn/wp-content/uploads/2018/11/Small_Size_League_-_RoboCup_2018_-_TDP_ZJUNlict.pdf>)). Since 2018, we have changed the external reduction ratio of the dribbling motor to 1:1, setting the rotating speed of the dribbling motor to a more proper value and setting the output power of the motor closer to rated power. (According to [ Maxon catalog page](<https://www.maxonmotor.com/medias/sys_master/root/8825423364126/17-EN-212.pdf>), also shown in the photo below)
+
+![](./image/Maxon_Motor_Catalog.PNG)
 
 Simultaneously, we designed threads in the surface of the silicon tube so that the tube can keep the ball in the center of the mouth more easily.  The photo of the mouth is shown below.
 
