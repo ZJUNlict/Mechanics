@@ -5,7 +5,7 @@
 
 ## Introduction
 
-In 2018 we participated in the RoboCup SSL and won the championship luckily. We divide our robot into 4 parts according to their functions. There will be a brief introduction to each part next. The overall rendering of our robot is shown in the photo below.
+We divide our robot into 4 parts according to their functions. There will be a brief introduction to each part next. The overall rendering of our robot is shown in the photo below.
 
 ![](./image/Version_2018.PNG)
 
