@@ -1,7 +1,7 @@
 # Mechanics
 >  ZJUNlict Mechanical Design in 2018 for the RoboCup Small Size League https://zjunlict.cn
 >
-> The mechanical design was designed with Solidworks 2019. You can only edit the files with Solidworks 2019 or higher version. If you don't have the software license, you can read the files with [eDrawings Viewer](<https://www.solidworks.com/sw/support/edrawings/e2_downloadcheck.htm>)(can not edit the files), which is free of charge.
+> The mechanical design was designed with Solidworks 2019. You can edit the files only with Solidworks 2019 or higher version. If you don't have the software license, you can read the files with [eDrawings Viewer](<https://www.solidworks.com/sw/support/edrawings/e2_downloadcheck.htm>)(can not edit the files), which is free of charge.
 
 ## Introduction
 
