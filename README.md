@@ -31,7 +31,7 @@ Since 2016, we have changed our chip-kicking system from connecting-rod-type to 
 
 ## MOTOR
 
-We choose the 20-small-wheel wheel for our robot. In theory, the more small wheels it has, the more smooth motion performance it has. But54 once the small wheels are too many, it will be very hard to maintain such as cleaning up the dust in it. 
+We choose the 20-small-wheel wheel for our robot. In theory, the more small wheels it has, the more smooth motion performance it has. But once the small wheels are too many, it will be very hard to maintain such as cleaning up the dust in it. 
 
 For the driving motor, we choose Maxon EC-45 50W. The encoder is US Digital E4T, 500 CPR. For more information please visit [ZJUNlict/Electronics](<https://github.com/ZJUNlict/Electronics>)
 
@@ -43,7 +43,7 @@ The whole device has only one degree of freedom of rotation(see photo below).
 
 ![](./image/mouth_freedomdegree.PNG)
 
-We use a dribbling motor(Maxon EC-16 30W) and a silicon tube to grab the ball. We have tested the dynamic dribbling ability using the silicon tube(shown in our [ ETDP in 2018 ](http:<https://zjunlict.cn/wp-content/uploads/2018/11/Small_Size_League_-_RoboCup_2018_-_TDP_ZJUNlict.pdf>)). Since 2018, we have changed the external reduction ratio of the dribbling motor to 1:1, setting the rotating speed of the dribbling motor to a more proper value and setting the output power of the motor closer to rated power. (According to [ Maxon catalog page](<https://www.maxonmotor.com/medias/sys_master/root/8825423364126/17-EN-212.pdf>), also shown in the photo below)
+We use a dribbling motor(Maxon EC-16 30W with internal gear (4.4:1)) and a silicon tube to grab the ball. We have tested the dynamic dribbling ability using the silicon tube(shown in our [ ETDP in 2018 ](http:<https://zjunlict.cn/wp-content/uploads/2018/11/Small_Size_League_-_RoboCup_2018_-_TDP_ZJUNlict.pdf>)). Since 2018, we have changed the external reduction ratio of the dribbling motor to 1:1, setting the rotating speed of the dribbling motor to a more proper value and setting the output power of the motor closer to rated power. (According to [ Maxon catalog page](<https://www.maxonmotor.com/medias/sys_master/root/8825423364126/17-EN-212.pdf>), also shown in the photo below)
 
 ![](./image/Maxon_Motor_Catalog.PNG)
 
